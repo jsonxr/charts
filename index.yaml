@@ -3,20 +3,11 @@ entries:
   webrtc:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-08-03T23:56:21.508087906-06:00
+    created: 2018-08-04T00:36:00.409999538-06:00
     description: A Helm chart for Kubernetes
-    digest: 04f0f7c20695378a32bd7665540bcd28f024f5dae959c3694f0e14555b92d9d5
-    name: webrtc
-    urls:
-    - webrtc-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: 2018-08-03T23:56:21.507765708-06:00
-    description: A Helm chart for Kubernetes
-    digest: 760226ce7f28a9e61be49bad4f518156cb5ebf597be476c77f55f64c038c1b3d
+    digest: 4a46fa9c3d562b582817d88e91370ce7d1ea83ab82c561a5177a6eb0f5853110
     name: webrtc
     urls:
     - webrtc-0.1.0.tgz
     version: 0.1.0
-generated: 2018-08-03T23:56:21.507227441-06:00
+generated: 2018-08-04T00:36:00.409505242-06:00
